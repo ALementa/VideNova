@@ -1,0 +1,12 @@
+.fieldInputPass {
+  position: relative;
+  width: 464px;
+  height: 71px;
+}
+
+.inputEye {
+  cursor: pointer;
+  position: absolute;
+  right: 30px;
+  top: 24px;
+}

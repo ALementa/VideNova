@@ -1,0 +1,51 @@
+.heading1 {
+  font-family: 'Chillax',sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 50px;
+  line-height: 70px;
+}
+
+.heading2 {
+  font-family: 'Plus Jakarta Display',sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 140%;
+}
+
+.heading3 {
+  font-family: 'Plus Jakarta Display',sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 140%;
+}
+
+.heading4 {
+  font-family: 'Plus Jakarta Display',sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 140%;
+}
+
+.heading5 {
+  font-family: 'Plus Jakarta Display',sans-serif;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 140%;
+}
+
+.heading6 {
+  font-family: 'Mazzard',sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 22px;
+  line-height: 140%;
+  color: rgba(255, 255, 255, 0.2);
+}
+.pink{
+color: #FF6363;
+}

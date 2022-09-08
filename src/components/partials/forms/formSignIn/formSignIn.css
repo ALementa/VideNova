@@ -1,0 +1,44 @@
+.containerFormSignIn{
+  width: 644px;
+  height: 792px;
+  position: relative;
+}
+.containerCross{
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 25px;
+  right: 25px;
+  text-align: center;
+}
+.containerSignIn{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  padding: 90px;
+}
+.containerInputSignIn{
+  text-align: left;
+  margin-top: 30px;
+}
+.containerInputSignIn .fieldInput{
+  margin-top: 19px;
+}
+.containerButtonSignIn{
+  margin-top: 50px;
+}
+.containerSignInSignUp{
+  margin-top: 50px;
+}
+.textError{
+  margin-top: 22px;
+  padding-top: 14px;
+  height: 36px;
+  background-color: #FADCDE;
+  border-radius: 14px;
+  align-items: center;
+  text-align: center;
+}
+.containerInputSignInError .fieldInputPass .fieldInput input {
+  border: red solid 1px;
+}

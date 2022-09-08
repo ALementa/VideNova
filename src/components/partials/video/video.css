@@ -1,0 +1,22 @@
+iframe{
+  border: none;
+  border-radius:14px
+}
+/*Title Video*/
+.h3{
+  margin-top: 10px;
+  text-align: center;
+  font-weight: 700;
+  max-width: 314px;
+  font-size: 25px;
+  //font-family: "Plus Jakarta Display";
+}
+/*Description video*/
+.text{
+  margin-top: 5px;
+  text-align: center;
+  font-weight: 400;
+  max-width: 314px;
+  font-size: 16px;
+  //font-family: "Plus Jakarta Display";
+}

@@ -1,0 +1,50 @@
+.namedInput {
+  display: block;
+  position: relative;
+}
+
+.fieldInput > input {
+
+  background-color: #E9EEF8;
+  width: 86%;
+  height: 71px;
+  padding-left: 24px;
+  padding-right: 30px;
+  text-align: left;
+  border: none;
+  border-radius: 14px;
+  font-size: 16px;
+  font-family: 'Plus Jakarta Display', sans-serif;
+}
+
+.fieldInput > input:focus {
+  outline: none;
+  border: none;
+}
+
+.fieldInput > input:invalid {
+  border: solid rgba(255, 46, 0, 0.8) 1px;
+}
+
+.fieldInput > textarea {
+  background-color: #E9EEF8;
+  width: 93%;
+  height: 108px;
+  resize: none;
+  padding-left: 24px;
+  padding-top: 24px;
+  text-align: left;
+  border: none;
+  border-radius: 14px;
+  font-size: 16px;
+  font-family: 'Plus Jakarta Display', sans-serif;
+}
+
+.fieldInput > textarea:invalid {
+  border: solid rgba(255, 46, 0, 0.8) 1px;
+}
+
+.fieldInput > textarea:focus {
+  outline: none;
+  border: none;
+}

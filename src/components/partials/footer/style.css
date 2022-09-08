@@ -1,0 +1,45 @@
+.footer {
+  height: 136px;
+  width:100%;
+  color: #ffffff;
+  background: #232323;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.footerContent{
+  width: 93%;
+  background: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.footerLeft{
+width: 14%;
+}
+.footerRight{
+width: 14%;
+}
+.socialsList{
+  padding: 0 0 0 0;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.socialListItem{
+  list-style-type: none;
+}
+.iconVideonova:hover path{
+  fill:#FF6363;
+}
+.iconDiscord:hover path{
+  fill:#5865F2;
+}
+.iconTelegram:hover path{
+  fill: #0088cc;
+}
+.iconTwitter:hover path{
+  fill:#1DA1F2;
+}
